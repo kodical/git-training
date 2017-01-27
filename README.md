@@ -19,5 +19,5 @@ This class and the presentation within can be used as a self guided or intructor
 
 [Setup Git](https://goo.gl/Fu5Bz0)
 
-[Presentation Slides](http://tmol.tm.tmcs/git/git.html) 
+[Presentation Slides](https://www.dropbox.com/s/pu49oxiuhq9frx0/git.pdf?dl=0) 
 This is the material used for the class
